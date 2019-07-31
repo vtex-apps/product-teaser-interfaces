@@ -1,0 +1,8 @@
+type Query {
+  appSettings: Settings @cacheControl(scope: PUBLIC, maxAge: MEDIUM)
+}
+
+type Settings {
+  storeId: String
+  productBinding: String
+}

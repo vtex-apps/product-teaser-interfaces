@@ -1,0 +1,8 @@
+{
+  "product-teaser.summary.example-teaser": {
+    "component": "TeaserSummary"
+  },
+  "product-teaser.product.example-teaser": {
+    "component": "TeaserProduct"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "product-teaser": {
+    "component": "*",
+    "extensible": "public"
+  },
+  "product-teaser.summary": {
+    "component": "*",
+    "extensible": "public"
+  },
+  "product-teaser.product": {
+    "component": "*",
+    "extensible": "public"
+  }
+}
