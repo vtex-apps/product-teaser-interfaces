@@ -4,7 +4,7 @@
 
 This app provides extensible interfaces that can be used by the `vtex.store` and a theme app. A product teaser app would depend on this app and extend the interfaces provided to become available in the store.
 
-You can see an example of a produc teaser app [here](/example).
+You can see an [example of a product teaser app here](/example).
 
 ## Use cases
 
