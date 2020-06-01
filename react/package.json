@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "test": "vtex-test-tools test",
     "lint": "tsc --noEmit && eslint --ext ts ."
   },
   "dependencies": {
